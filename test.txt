@@ -1,1 +1,6 @@
 ECHO is on.
+lne 2 
+
+lne\\
+
+$@324R%kkfs#
